@@ -1,2 +1,2 @@
 # hello_world
-my new project
+HI. My name is Svitlana. I just sturt to study programming.
